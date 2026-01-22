@@ -5,10 +5,10 @@ This project focuses on creating a Deep Learning model that predicts whether or 
 The dataset is highly imbalanced and analysis includes data preprocessing for cleaning the data, performing exploratory data analysis, data imputations and visualization to draw meaningful insights
 
 Tools and Techniques:
-Pandas
-Numpy
-MatplotLib,Seaborn
-Scikit-Learn
+Pandas,
+Numpy,
+MatplotLib,Seaborn,
+Scikit-Learn,
 Keras/Tensors
 
 Dataset information:
